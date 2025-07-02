@@ -1,0 +1,373 @@
+[
+    {
+        "user_id": "user123",
+        "purchase_history": [{"product_id": "prod001", "purchase_date": "2025-05-15", "price_paid": 499}, {"product_id": "prod004", "purchase_date": "2025-06-01", "price_paid": 899}],
+        "preferences": ["sports", "jeans", "casual clothing"],
+        "budget_range": {"min": 300, "max": 1000},
+        "browsing_history": ["prod002", "prod013", "prod019"]
+    },
+    {
+        "user_id": "user456",
+        "purchase_history": [{"product_id": "prod002", "purchase_date": "2025-04-20", "price_paid": 799}],
+        "preferences": ["electronics", "accessories"],
+        "budget_range": {"min": 200, "max": 2000},
+        "browsing_history": ["prod006", "prod011", "prod016"]
+    },
+    {
+        "user_id": "user789",
+        "purchase_history": [{"product_id": "prod005", "purchase_date": "2025-03-10", "price_paid": 599}, {"product_id": "prod011", "purchase_date": "2025-05-25", "price_paid": 1499}],
+        "preferences": ["accessories", "shirts", "formal wear"],
+        "budget_range": {"min": 400, "max": 1500},
+        "browsing_history": ["prod008", "prod009", "prod018"]
+    },
+    {
+        "user_id": "user101",
+        "purchase_history": [{"product_id": "prod007", "purchase_date": "2025-06-10", "price_paid": 399}],
+        "preferences": ["home", "outdoors"],
+        "budget_range": {"min": 200, "max": 800},
+        "browsing_history": ["prod012", "prod017", "prod025"]
+    },
+    {
+        "user_id": "user102",
+        "purchase_history": [{"product_id": "prod009", "purchase_date": "2025-05-05", "price_paid": 799}],
+        "preferences": ["accessories", "fashion"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod023", "prod028", "prod038"]
+    },
+    {
+        "user_id": "user103",
+        "purchase_history": [{"product_id": "prod006", "purchase_date": "2025-04-15", "price_paid": 2499}],
+        "preferences": ["electronics", "gaming"],
+        "budget_range": {"min": 1000, "max": 3000},
+        "browsing_history": ["prod029", "prod034", "prod044"]
+    },
+    {
+        "user_id": "user104",
+        "purchase_history": [{"product_id": "prod013", "purchase_date": "2025-06-20", "price_paid": 899}],
+        "preferences": ["clothing", "casual"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod001", "prod015", "prod021"]
+    },
+    {
+        "user_id": "user105",
+        "purchase_history": [{"product_id": "prod014", "purchase_date": "2025-05-25", "price_paid": 599}],
+        "preferences": ["footwear", "summer"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod027", "prod047", "prod020"]
+    },
+    {
+        "user_id": "user106",
+        "purchase_history": [{"product_id": "prod018", "purchase_date": "2025-04-30", "price_paid": 399}],
+        "preferences": ["accessories", "sports"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod043", "prod053", "prod018"]
+    },
+    {
+        "user_id": "user107",
+        "purchase_history": [{"product_id": "prod011", "purchase_date": "2025-06-05", "price_paid": 1499}],
+        "preferences": ["electronics", "audio"],
+        "budget_range": {"min": 800, "max": 2000},
+        "browsing_history": ["prod006", "prod039", "prod049"]
+    },
+    {
+        "user_id": "user108",
+        "purchase_history": [{"product_id": "prod017", "purchase_date": "2025-05-12", "price_paid": 699}],
+        "preferences": ["home", "office"],
+        "budget_range": {"min": 300, "max": 1000},
+        "browsing_history": ["prod030", "prod035", "prod045"]
+    },
+    {
+        "user_id": "user109",
+        "purchase_history": [{"product_id": "prod003", "purchase_date": "2025-04-10", "price_paid": 999}],
+        "preferences": ["clothing", "sports"],
+        "budget_range": {"min": 500, "max": 1500},
+        "browsing_history": ["prod022", "prod032", "prod037"]
+    },
+    {
+        "user_id": "user110",
+        "purchase_history": [{"product_id": "prod010", "purchase_date": "2025-06-15", "price_paid": 999}],
+        "preferences": ["accessories", "travel"],
+        "budget_range": {"min": 600, "max": 1500},
+        "browsing_history": ["prod033", "prod050", "prod010"]
+    },
+    {
+        "user_id": "user111",
+        "purchase_history": [{"product_id": "prod016", "purchase_date": "2025-05-18", "price_paid": 299}],
+        "preferences": ["electronics", "mobile"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod024", "prod034", "prod044"]
+    },
+    {
+        "user_id": "user112",
+        "purchase_history": [{"product_id": "prod019", "purchase_date": "2025-04-25", "price_paid": 499}],
+        "preferences": ["clothing", "fitness"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod012", "prod019", "prod036"]
+    },
+    {
+        "user_id": "user113",
+        "purchase_history": [{"product_id": "prod008", "purchase_date": "2025-06-08", "price_paid": 699}],
+        "preferences": ["clothing", "formal"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod023", "prod031", "prod046"]
+    },
+    {
+        "user_id": "user114",
+        "purchase_history": [{"product_id": "prod005", "purchase_date": "2025-05-02", "price_paid": 599}],
+        "preferences": ["accessories", "fashion"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod009", "prod028", "prod048"]
+    },
+    {
+        "user_id": "user115",
+        "purchase_history": [{"product_id": "prod007", "purchase_date": "2025-04-18", "price_paid": 399}],
+        "preferences": ["home", "outdoors"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod025", "prod040", "prod055"]
+    },
+    {
+        "user_id": "user116",
+        "purchase_history": [{"product_id": "prod002", "purchase_date": "2025-06-12", "price_paid": 799}],
+        "preferences": ["footwear", "casual"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod014", "prod020", "prod052"]
+    },
+    {
+        "user_id": "user117",
+        "purchase_history": [{"product_id": "prod011", "purchase_date": "2025-05-30", "price_paid": 1499}],
+        "preferences": ["electronics", "audio"],
+        "budget_range": {"min": 800, "max": 2000},
+        "browsing_history": ["prod006", "prod029", "prod039"]
+    },
+    {
+        "user_id": "user118",
+        "purchase_history": [{"product_id": "prod013", "purchase_date": "2025-04-22", "price_paid": 899}],
+        "preferences": ["clothing", "casual"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod001", "prod015", "prod026"]
+    },
+    {
+        "user_id": "user119",
+        "purchase_history": [{"product_id": "prod017", "purchase_date": "2025-06-03", "price_paid": 699}],
+        "preferences": ["home", "office"],
+        "budget_range": {"min": 300, "max": 900},
+        "browsing_history": ["prod030", "prod035", "prod045"]
+    },
+    {
+        "user_id": "user120",
+        "purchase_history": [{"product_id": "prod004", "purchase_date": "2025-05-07", "price_paid": 899}],
+        "preferences": ["footwear", "sports"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod022", "prod032", "prod052"]
+    },
+    {
+        "user_id": "user121",
+        "purchase_history": [{"product_id": "prod010", "purchase_date": "2025-04-28", "price_paid": 999}],
+        "preferences": ["accessories", "travel"],
+        "budget_range": {"min": 600, "max": 1500},
+        "browsing_history": ["prod033", "prod050", "prod010"]
+    },
+    {
+        "user_id": "user122",
+        "purchase_history": [{"product_id": "prod018", "purchase_date": "2025-06-17", "price_paid": 399}],
+        "preferences": ["accessories", "sports"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod043", "prod053", "prod018"]
+    },
+    {
+        "user_id": "user123",
+        "purchase_history": [{"product_id": "prod006", "purchase_date": "2025-05-14", "price_paid": 2499}],
+        "preferences": ["electronics", "gaming"],
+        "budget_range": {"min": 1000, "max": 3000},
+        "browsing_history": ["prod029", "prod034", "prod044"]
+    },
+    {
+        "user_id": "user124",
+        "purchase_history": [{"product_id": "prod015", "purchase_date": "2025-04-09", "price_paid": 799}],
+        "preferences": ["clothing", "winter"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod021", "prod036", "prod046"]
+    },
+    {
+        "user_id": "user125",
+        "purchase_history": [{"product_id": "prod012", "purchase_date": "2025-06-06", "price_paid": 499}],
+        "preferences": ["home", "fitness"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod007", "prod012", "prod019"]
+    },
+    {
+        "user_id": "user126",
+        "purchase_history": [{"product_id": "prod009", "purchase_date": "2025-05-21", "price_paid": 799}],
+        "preferences": ["accessories", "fashion"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod023", "prod028", "prod038"]
+    },
+    {
+        "user_id": "user127",
+        "purchase_history": [{"product_id": "prod003", "purchase_date": "2025-04-16", "price_paid": 999}],
+        "preferences": ["clothing", "sports"],
+        "budget_range": {"min": 500, "max": 1500},
+        "browsing_history": ["prod022", "prod032", "prod037"]
+    },
+    {
+        "user_id": "user128",
+        "purchase_history": [{"product_id": "prod016", "purchase_date": "2025-06-11", "price_paid": 299}],
+        "preferences": ["electronics", "mobile"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod024", "prod034", "prod044"]
+    },
+    {
+        "user_id": "user129",
+        "purchase_history": [{"product_id": "prod005", "purchase_date": "2025-05-03", "price_paid": 599}],
+        "preferences": ["accessories", "fashion"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod009", "prod028", "prod048"]
+    },
+    {
+        "user_id": "user130",
+        "purchase_history": [{"product_id": "prod017", "purchase_date": "2025-04-19", "price_paid": 699}],
+        "preferences": ["home", "office"],
+        "budget_range": {"min": 300, "max": 900},
+        "browsing_history": ["prod030", "prod035", "prod045"]
+    },
+    {
+        "user_id": "user131",
+        "purchase_history": [{"product_id": "prod002", "purchase_date": "2025-06-13", "price_paid": 799}],
+        "preferences": ["footwear", "casual"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod014", "prod020", "prod052"]
+    },
+    {
+        "user_id": "user132",
+        "purchase_history": [{"product_id": "prod011", "purchase_date": "2025-05-27", "price_paid": 1499}],
+        "preferences": ["electronics", "audio"],
+        "budget_range": {"min": 800, "max": 2000},
+        "browsing_history": ["prod006", "prod029", "prod039"]
+    },
+    {
+        "user_id": "user133",
+        "purchase_history": [{"product_id": "prod008", "purchase_date": "2025-04-24", "price_paid": 699}],
+        "preferences": ["clothing", "formal"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod023", "prod031", "prod046"]
+    },
+    {
+        "user_id": "user134",
+        "purchase_history": [{"product_id": "prod019", "purchase_date": "2025-06-18", "price_paid": 499}],
+        "preferences": ["clothing", "fitness"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod012", "prod019", "prod036"]
+    },
+    {
+        "user_id": "user135",
+        "purchase_history": [{"product_id": "prod014", "purchase_date": "2025-05-09", "price_paid": 599}],
+        "preferences": ["footwear", "summer"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod027", "prod047", "prod020"]
+    },
+    {
+        "user_id": "user136",
+        "purchase_history": [{"product_id": "prod007", "purchase_date": "2025-04-11", "price_paid": 399}],
+        "preferences": ["home", "outdoors"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod025", "prod040", "prod055"]
+    },
+    {
+        "user_id": "user137",
+        "purchase_history": [{"product_id": "prod010", "purchase_date": "2025-06-04", "price_paid": 999}],
+        "preferences": ["accessories", "travel"],
+        "budget_range": {"min": 600, "max": 1500},
+        "browsing_history": ["prod033", "prod050", "prod010"]
+    },
+    {
+        "user_id": "user138",
+        "purchase_history": [{"product_id": "prod003", "purchase_date": "2025-05-16", "price_paid": 999}],
+        "preferences": ["clothing", "sports"],
+        "budget_range": {"min": 500, "max": 1500},
+        "browsing_history": ["prod022", "prod032", "prod037"]
+    },
+    {
+        "user_id": "user139",
+        "purchase_history": [{"product_id": "prod016", "purchase_date": "2025-04-13", "price_paid": 299}],
+        "preferences": ["electronics", "mobile"],
+        "budget_range": {"min": 200, "max": 600},
+        "browsing_history": ["prod024", "prod034", "prod044"]
+    },
+    {
+        "user_id": "user140",
+        "purchase_history": [{"product_id": "prod006", "purchase_date": "2025-06-07", "price_paid": 2499}],
+        "preferences": ["electronics", "gaming"],
+        "budget_range": {"min": 1000, "max": 3000},
+        "browsing_history": ["prod029", "prod034", "prod044"]
+    },
+    {
+        "user_id": "user141",
+        "purchase_history": [{"product_id": "prod015", "purchase_date": "2025-05-23", "price_paid": 799}],
+        "preferences": ["clothing", "winter"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod021", "prod036", "prod046"]
+    },
+    {
+        "user_id": "user142",
+        "purchase_history": [{"product_id": "prod012", "purchase_date": "2025-04-17", "price_paid": 499}],
+        "preferences": ["home", "fitness"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod007", "prod012", "prod019"]
+    },
+    {
+        "user_id": "user143",
+        "purchase_history": [{"product_id": "prod009", "purchase_date": "2025-06-02", "price_paid": 799}],
+        "preferences": ["accessories", "fashion"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod023", "prod028", "prod038"]
+    },
+    {
+        "user_id": "user144",
+        "purchase_history": [{"product_id": "prod005", "purchase_date": "2025-05-01", "price_paid": 599}],
+        "preferences": ["accessories", "fashion"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod009", "prod028", "prod048"]
+    },
+    {
+        "user_id": "user145",
+        "purchase_history": [{"product_id": "prod017", "purchase_date": "2025-04-14", "price_paid": 699}],
+        "preferences": ["home", "office"],
+        "budget_range": {"min": 300, "max": 900},
+        "browsing_history": ["prod030", "prod035", "prod045"]
+    },
+    {
+        "user_id": "user146",
+        "purchase_history": [{"product_id": "prod002", "purchase_date": "2025-06-09", "price_paid": 799}],
+        "preferences": ["footwear", "casual"],
+        "budget_range": {"min": 500, "max": 1200},
+        "browsing_history": ["prod014", "prod020", "prod052"]
+    },
+    {
+        "user_id": "user147",
+        "purchase_history": [{"product_id": "prod011", "purchase_date": "2025-05-28", "price_paid": 1499}],
+        "preferences": ["electronics", "audio"],
+        "budget_range": {"min": 800, "max": 2000},
+        "browsing_history": ["prod006", "prod029", "prod039"]
+    },
+    {
+        "user_id": "user148",
+        "purchase_history": [{"product_id": "prod008", "purchase_date": "2025-04-23", "price_paid": 699}],
+        "preferences": ["clothing", "formal"],
+        "budget_range": {"min": 400, "max": 1000},
+        "browsing_history": ["prod023", "prod031", "prod046"]
+    },
+    {
+        "user_id": "user149",
+        "purchase_history": [{"product_id": "prod019", "purchase_date": "2025-06-19", "price_paid": 499}],
+        "preferences": ["clothing", "fitness"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod012", "prod019", "prod036"]
+    },
+    {
+        "user_id": "user150",
+        "purchase_history": [{"product_id": "prod014", "purchase_date": "2025-05-10", "price_paid": 599}],
+        "preferences": ["footwear", "summer"],
+        "budget_range": {"min": 300, "max": 800},
+        "browsing_history": ["prod027", "prod047", "prod020"]
+    }
+]

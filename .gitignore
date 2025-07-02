@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE and editor files
+*.vscode/
+*.idea/
+*.DS_Store
+
+# OS generated files
+Thumbs.db
+
+# Docker and testing artifacts (optional, adjust as needed)
+*.log
+Commands for Testing.txt  # If you want to exclude this file
+
+# Ignore large binary files or temporary files (if any)
+*.swp
+*~
+
+# Dependencies (if managed separately, e.g., via requirements.txt)
+# Note: Keep requirements.txt in the repo, so no need to ignore it
